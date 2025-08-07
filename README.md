@@ -11,7 +11,7 @@
 - 💳 Razorpay payment gateway
 - 🛵 Supports multiple ride services
 - 📱 Kotlin-based Android app
-- ⚙️ Java (Spring Boot) backend with MongoDB
+- ⚙️ Java (Spring Boot) backend with MongoDB.
 
 ---
 
