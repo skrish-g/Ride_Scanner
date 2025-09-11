@@ -8,7 +8,6 @@
 
 - 🔍 Compare real-time fares and ETAs
 - 🗺️ Map integration with Google Maps API
-- 💳 Razorpay payment gateway
 - 🛵 Supports multiple ride services
 - 📱 Kotlin-based Android app
 - ⚙️ Java (Spring Boot) backend with MongoDB
