@@ -20,7 +20,7 @@
 |-------------|---------------------------|
 | Frontend    | Kotlin (Android SDK)      |
 | Backend     | Java (Spring Boot)        |
-| Database    | MongoDB                  |
+| Database    | MongoDB                   |
 | Maps & ETA  | Google Maps API           |
 
 ---
